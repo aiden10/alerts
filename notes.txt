@@ -1,0 +1,5 @@
+
+Load target subreddits, keywords, and email from config file
+Send get request to subreddits/new.json
+If any new posts contain the keywords, send an email
+Save subreddit json 
